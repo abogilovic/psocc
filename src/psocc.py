@@ -486,20 +486,3 @@ money_yield_tactics = [0,1]
 #print(MTD(home, away, match_date, league_seasons, n_seasons_mtd*matches_per_season))
 season_money_yield(5, 1, Date("18/08/17"), 2, league_seasons, n_seasons_mtd, matches_per_season, money_yield_tactics, algo_tactics)
 #LMS(match_date, league_seasons, n_seasons_mtd*matches_per_season)
-
-# BET 25KM
-# EARNED 493.25 KM for myt=0 at=0
-# EARNED 857.5986448719767 KM for myt=1 at=0
-# EARNED -243.61211529598577 KM for myt=2 at=0
-# EARNED 491.5 KM for myt=0 at=1
-# EARNED 939.563775767964 KM for myt=1 at=1
-# EARNED -189.58342326265824 KM for myt=2 at=1
-# EARNED 325.5 KM for myt=0 at=2
-# EARNED 649.0695730950385 KM for myt=1 at=2
-# EARNED 232.17254174810708 KM for myt=2 at=2
-# EARNED 320.5 KM for myt=0 at=3
-# EARNED 787.5844948466096 KM for myt=1 at=3
-# EARNED 7.788084401222736 KM for myt=2 at=3
-# EARNED 359.0 KM for myt=0 at=4
-# EARNED 691.1542467545335 KM for myt=1 at=4
-# EARNED -217.88506386152076 KM for myt=2 at=4
